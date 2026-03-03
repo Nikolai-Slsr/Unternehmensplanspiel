@@ -1,0 +1,2 @@
+# Unternehmensplanspiel
+Unternehmensplanspiel für eine Existenzgründung
